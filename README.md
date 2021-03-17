@@ -1,0 +1,2 @@
+# AD1256-ARDUINO-MEGA
+Examine the AD1256 on the ARDUINO MEGA.
