@@ -1,6 +1,3 @@
 # AD1256-ARDUINO-MEGA
 ARDUINO MEGA에서 AD1256 살펴보기
-AD1256 샘플 프로그램으로시험중입니다. 
-
-
-
+Bad data.
